@@ -10,10 +10,11 @@ package demo;
 /**
 * @Description: 
  * @author: chenly
- * @date: 2017骞�1鏈�6鏃�
+ * @date: 2017年11月17日
 */
 
 public interface AInter {
 	//final
 	//this is a interface, you can see it, it comes from lihai.
+	//比以往时候来得更晚一些
 }
