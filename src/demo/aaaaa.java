@@ -10,11 +10,10 @@ package demo;
 /**
 * @Description: 
  * @author: chenly
- * @date: 2017年11月16日
-*/
+ * @date: 2017骞�1鏈�6鏃�*/
 
 public class aaaaa {
 	//fuck!
-	//	李海你好，HELLO LIHAI！
-
+	//	鏉庢捣浣犲ソ锛孒ELLO LIHAI锛�
+	//  it'a a good story
 }
